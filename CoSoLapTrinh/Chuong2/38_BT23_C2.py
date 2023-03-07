@@ -1,0 +1,5 @@
+p=int(input("tien dau tu ban dau ="))
+r=float(input("lai xuat moi thang ="))
+n=int(input("so thang gui ="))
+tienlanhcuoiki=p*(1+r*n)
+print("tienlanhcuoiki",tienlanhcuoiki)
